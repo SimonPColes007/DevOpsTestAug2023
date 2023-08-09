@@ -1,3 +1,3 @@
-trigger Testtrigger on SOBJECT (before insert) {
+trigger Testtrigger on Contact (before insert) {
 
 }
