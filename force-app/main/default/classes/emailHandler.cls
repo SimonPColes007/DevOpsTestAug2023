@@ -6,4 +6,6 @@ global class emailHandler implements Messaging.InboundEmailHandler {
 
       // This is great
       List<account> a = new List<account>([Select Id from Account]);
+
+      // So is this.
   }
